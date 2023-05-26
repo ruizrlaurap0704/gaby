@@ -1,5 +1,5 @@
-# SitioWebFrontEndStore
+# SitioWebGaby
 
-Se trata de una página desarrollada en HTML5 y CSS3. Actividad correspondiente al curso Desarrollado Web Completo HTML5, CSS3, JS, AJAX, PHP y MySQL impartido por Udemy.
+Se trata de una página web de una pyme fabricante de ropa.
 
 
